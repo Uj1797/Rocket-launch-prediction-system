@@ -33,7 +33,3 @@ This project focused on predicting the successful landing of Falcon 9 first stag
 ## Conclusion
 
 This project developed skills in data collection, manipulation, visualization, and machine learning for predictive analysis in aerospace technology. By predicting Falcon 9 first-stage landings, it contributed to cost estimation and competitive strategy in the space launch industry.
-
----
-
-Feel free to adjust any details to better fit your project's specific achievements and outcomes.
